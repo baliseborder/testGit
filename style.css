@@ -12,3 +12,61 @@ body
     background-color: rgb(0, 0, 0); /* Le fond de la page sera noir */
     color: rgb(52, 8, 246); /* Le texte de la page sera bleu */
 }
+
+
+
+.conatiner{
+	margin: 15px;
+
+	padding: 50px;
+	padding-left: 400px;
+
+}
+
+.conatiner div{
+	border: 1px solid blue;
+	width: 400px;
+}
+
+.row{
+	margin: -15px;
+
+
+
+
+
+}
+
+.btn-succes{
+
+border: 2px solid blue;
+background-color:blue;
+display: block;
+text-align: center;
+
+margin: 20px;
+
+
+
+}
+input{
+	display: block;
+
+}
+.identifier{
+	background-color: blue;
+display: inline-block;
+border-width: 100px;
+
+}
+
+
+.row form{
+	padding-left: 82px;
+	margin: 29px;
+
+
+
+
+
+}
